@@ -14,9 +14,9 @@ setuptools.setup(
     description="it is an implimentation of perceptron",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url=f"https://github.com/{USER_NAME}/{oneNeuron}",
+    url=f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
     project_urls={
-        "Bug Tracker": "https://github.com/{USER_NAME}/{oneNeuron}/issues",
+        "Bug Tracker": "https://github.com/{USER_NAME}/{PROJECT_NAME}/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
